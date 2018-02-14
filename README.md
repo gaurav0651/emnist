@@ -6,5 +6,3 @@ Pre-requisites
 2.  Rename containing folders to character and numbers based on its hex ascii value
 3.  Run train_emnist.ipynb
 
-Side Note:
-Load and use the pretrained model if you need a quick and easy solution
